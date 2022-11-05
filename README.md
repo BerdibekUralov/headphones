@@ -1,13 +1,11 @@
 # Responsive Landing Page Headphones 🎧
-## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
+## [Смотри на netlify](https://head-phones.netlify.app)
 ### Responsive Landing Page Headphones 🎧
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Красивая целевая страница для наушников с использованием HTML, CSS и JAVASCRIPT.
+- Темный интерфейс.
+- С анимацией при прокрутке.
+- Сначала разработано с использованием методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![](/preview.png)
